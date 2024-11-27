@@ -11,7 +11,7 @@ const Footer = () => {
         {/* Web Info */}
         <div className="text-sm">
           <p>Firhan Ashari - MCI 6</p>
-          <p>Jakarta, Indonesia 2023</p>
+          <p>Jakarta, Indonesia 2020</p>
         </div>
       </div>
     </footer>
