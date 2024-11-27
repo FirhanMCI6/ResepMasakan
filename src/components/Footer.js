@@ -6,11 +6,11 @@ const Footer = () => {
       <div className="container mx-auto flex items-center justify-between flex-wrap">
         {/* Website Name */}
         <div className="flex items-center">
-          <h1 className="text-2xl font-bold tracking-wide">Masakan Kekinian</h1>
+          <h1 className="text-2xl font-bold tracking-wide">Resep Masakan</h1>
         </div>
         {/* Web Info */}
         <div className="text-sm">
-          <p>Masakan Kekinian</p>
+          <p>Firhan Ashari - MCI 6</p>
           <p>Jakarta, Indonesia 2023</p>
         </div>
       </div>
