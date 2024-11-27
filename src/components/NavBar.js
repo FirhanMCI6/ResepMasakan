@@ -8,7 +8,7 @@ const NavBar = () => {
         {/* Website Name */}
         <div className="flex items-center flex-shrink-0 mr-6">
           <a href="/" className="text-2xl font-bold tracking-wide">
-            Masakan Kekinian
+            Resep Masakan
           </a>
         </div>
         {/* Navbar Menu */}
