@@ -19,7 +19,7 @@ const HeroSection = () => {
       {/* Web Name */}
       <div className="text-gray-700 text-center md:block hidden md:mt-6">
         <h1 className="text-7xl font-bold">Resep Masakan</h1>
-        <h1 className="text-2xl font-semibold">Dari Segala Masakan</h1>
+        <h1 className="text-2xl font-semibold">Dari Firhan Ashari</h1>
       </div>
       {/* Search Bar */}
       <form onSubmit={handleSearch} className="w-full flex justify-center">
